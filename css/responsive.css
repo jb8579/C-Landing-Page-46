@@ -1,0 +1,755 @@
+
+@media screen and (min-width: 1240px) and (max-width: 30000px) {
+
+
+}
+
+
+
+@media screen and (min-width: 1200px) and (max-width: 1239px) {
+.container {
+    padding: 0 30px;
+}
+
+
+
+
+
+}
+
+
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+
+.container {
+    padding: 0 30px;
+}
+
+.hero-left h1 {
+    font-size: 45px;
+    line-height: 60px;
+    padding-bottom: 28px;
+}
+
+.hero-left h6 {
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+
+.hero-left p br {
+    display: none;
+}
+
+.hero-left p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 29px;
+}
+
+.hero-left a {
+    font-size: 14px;
+    padding: 14px 19px;
+    margin-top: 35px;
+}
+
+.herorighttext h4 {
+    font-size: 21px;
+}
+
+.heroright-box {
+    height: 420px;
+}
+
+.lotterydpmy-part {
+    gap: 30px;
+}
+
+.ltydpmyitem1-left img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.ltydpmyitem1-right h2 {
+    font-size: 30px;
+}
+
+.newltydpmyitem1 h2 {
+    font-size: 19px;
+    padding-right: 34px;
+    line-height: 33px;
+}
+
+.millionpart h6 {
+    font-size: 27px;
+}
+
+.footer-nav ul li {
+    margin: 0 48px;
+}
+
+.checkwinning-right form {
+    width: 354px;
+    margin-left: 14px;
+}
+
+
+
+.ckwgform input {
+    width: 170px;
+}
+
+.ckwgfmitem1 input {
+    width: 90px;
+}
+
+.ckwgform input[type="submit"] {
+    width: 74px;
+}
+
+.ckwgform-text ul li {
+    display: inline-block;
+    padding-right: 20px;
+}
+
+.ckwgform-text ul li a {
+    font-size: 13px;
+}
+
+.newherott-text p br {
+    display: none;
+}
+
+.newherott-text p {
+    font-size: 15px;
+    line-height: 28px;
+    padding-bottom: 20px;
+}
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+.container {
+    padding: 0 30px;
+}
+
+
+.hero-left {
+    width: 55%;
+}
+
+.hero-right {
+    width: 45%;
+}
+
+.hero-left h1 {
+    font-size: 32px;
+    line-height: 42px;
+    padding-bottom: 16px;
+}
+
+.hero-left h6 {
+    font-size: 14px;
+    padding-bottom: 16px;
+}
+
+
+.hero-left p br {
+    display: none;
+}
+
+.hero-left p {
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.hero-left a {
+    margin-top: 35px;
+}
+
+.herorighttext {
+    padding: 20px;
+}
+
+.herorighttext h4 {
+    font-size: 20px;
+}
+
+.heroright-box {
+    height: 390px;
+}
+
+.lotterydpmy-part {
+    padding: 60px 0;
+    padding-bottom: 40px;
+    display: block;
+}
+
+.lotterydpmyitems {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+
+.checkwinning-part {
+    display: block;
+}
+
+.checkwinning-left {
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.checkwinning-right {
+    width: 100%;
+}
+
+.checkwinning-right form {
+    width: 400px;
+    margin-left: 0px;
+}
+
+.millionbox {
+    border-radius: 15px;
+    display: block;
+    margin-top: 35px;
+    height: initial;
+    position: relative;
+            background: linear-gradient(109.88deg, #0088FF 6.84%, #003A6D 95.71%);
+}
+
+
+.millionbox-right {
+    width: 100%;
+    display: none;
+}
+
+.millionbox-left {
+    width: 100%;
+}
+
+
+.million-top {
+    display: block;
+}
+
+.million-top img {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+
+.playersfdbox {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.footer-nav ul li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.newherott-text p br {
+    display: none;
+}
+
+.newherott-text p {
+    font-size: 15px;
+    line-height: 28px;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+}
+
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+.headertop-area {
+    padding: 8px 15px;
+}
+
+.headertop-part {
+    display: block;
+}
+
+.headertop-item2 ul {
+    text-align: center;
+    padding-top: 9px;
+}
+
+.headertop-item2 ul li {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+
+.header-btns ul li a {
+    font-size: 13px;
+    width: 70px;
+    height: 38px;
+    line-height: 38px;
+    font-weight: 600;
+
+}
+
+.header-btns ul li {
+    padding-left: 5px;
+}
+
+.header-logo {
+    width: 30%;
+}
+
+.header-btns {
+    width: 70%;
+}
+
+.header-btns ul li:nth-child(2) a {
+    width: 90px;
+}
+
+.hero-area {
+    padding: 40px 0;
+}
+
+.hero-left h6 {
+    font-size: 14px;
+    padding-bottom: 14px;
+}
+
+.hero-left {
+    width: 100%;
+}
+
+.hero-right {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.hero-part {
+    display: block;
+}
+
+.hero-left h1 {
+    font-size: 33px;
+    line-height: 45px;
+    padding-bottom: 20px;
+}
+
+.hero-left p br {
+    display: none;
+}
+
+.hero-left p {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.hero-left a {
+    font-size: 14px;
+    padding: 12px 19px;
+    margin-top: 25px;
+}
+
+.heroright-box {
+    height: 340px;
+}
+
+.herorighttext h4 {
+    font-size: 19px;
+    padding-bottom: 7px;
+}
+
+.herorighttext p {
+    font-size: 14px;
+}
+
+.herorighttext {
+    padding: 20px;
+}
+
+
+.lotteryitalia-part {
+    border-radius: 15px;
+    padding: 25px 15px;
+    padding-bottom: 15px;
+}
+
+.lotteryitalia-part h2 {
+    font-size: 18px;
+    padding-bottom: 16px;
+}
+
+.lotteryitalia-part p {
+    font-size: 14px;
+    line-height: 22px;
+    padding-bottom: 16px;
+}
+
+
+.lotterydpmy-part {
+    padding: 40px 0;
+    display: block;
+    padding-bottom: 10px;
+}
+
+.lotterydpmyitems {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+
+.lotterydpmyitem1 {
+    height: 105px;
+    border-radius: 15px;
+}
+
+.ltydpmyitem1-right h2 {
+    font-size: 20px;
+}
+
+.lotterydpmyitem2 p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.newltydpmyitem2 a {
+    margin-top: 25px;
+}
+
+.lotterydpmyitem2 h3 {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+
+.newltydpmyitem1 h2 {
+    font-size: 13px;
+    padding-right: 20px;
+    line-height: 20px;
+}
+
+.millionbox {
+    border-radius: 15px;
+    display: block;
+    margin-top: 35px;
+    height: initial;
+    position: relative;
+            background: linear-gradient(109.88deg, #0088FF 6.84%, #003A6D 95.71%);
+}
+
+
+.millionbox-right {
+    width: 100%;
+    display: none;
+}
+
+.millionbox-left {
+    width: 100%;
+}
+
+
+.million-top {
+    display: block;
+}
+
+.million-top img {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+
+.checkwinning-part {
+    border-radius: 15px;
+    padding: 25px 15px;
+    display: block;
+}
+
+.checkwinning-left {
+    width: 100%;
+    margin-bottom: 18px;
+}
+
+.checkwinning-right {
+    width: 100%;
+}
+
+.checkwinning-right form {
+    width: 100%;
+    margin-left: 0;
+}
+
+.ckwgform {
+    display: block;
+
+}
+
+.ckwgfmitem1 input {
+    width: 100%;
+}
+
+.ckwgform input {
+    font-size: 14px;
+    padding: 8px 8px;
+    box-sizing: border-box;
+    border-radius: 3px;
+    outline: none;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.ckwgform-text ul {
+    padding-top: 2px;
+}
+
+.ckwgform-text ul li {
+    padding-right: 0px;
+    padding-bottom: 5px;
+}
+
+.checkwinning-left h2 {
+    font-size: 18px;
+    padding-bottom: 16px;
+}
+
+.checkwinning-left p {
+    font-size: 14px;
+    margin: 0;
+    line-height: 22px;
+}
+
+
+.millionpart {
+    padding: 20px 15px;
+}
+
+.playersfdheading h2 {
+    font-size: 20px;
+}
+
+
+.playersfdheading {
+    padding-bottom: 25px;
+}
+
+
+.playersfdbox {
+    grid-template-columns: repeat(1, 1fr);
+    grid-row-gap: 25px;
+}
+
+.playersfditem {
+    border-radius: 15px;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.mainplayersfd-img img {
+    width: 65px;
+    height: 65px;
+}
+
+.mainplayersfdtext {
+    padding-left: 15px;
+}
+
+.mainplayersfdtext h3 {
+    font-size: 16px;
+    padding-bottom: 8px;
+}
+
+.mainplayersfdtext img {
+    max-width: initial;
+    display: block;
+    width: 98px;
+}
+
+.playersfdtext p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.faq-area {
+    padding: 30px 0;
+}
+
+.faq-part {
+    border-radius: 16px;
+    padding: 25px 15px;
+}
+
+.faq-heading h2 {
+    font-size: 18px;
+    padding-bottom: 0px;
+}
+
+.faq-heading {
+    padding-bottom: 15px;
+}
+
+.ziehharmonika h3 {
+    font-size: 15px;
+    padding: 18px 0px;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding-right: 30px;
+    position: relative;
+}
+
+.ziehharmonika .collapseIcon {
+    right: 1px;
+}
+
+.ziehharmonika > div {
+    display: none;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: left;
+    padding: 0px 0px;
+    font-weight: 400;
+    padding-right: 0px;
+    padding-top: 0;
+}
+
+.rpbgambling-area {
+    padding: 40px 0;
+}
+
+.rpbgambling-part h2 {
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+
+.rpbgambling-part p {
+    font-size: 14px;
+    line-height: 25px;
+}
+
+
+.footer-area {
+    padding: 40px 0;
+    padding-bottom: 25px;
+}
+
+.footerlogos ul li {
+    margin: 0 1px;
+}
+
+.footerlogos ul li a img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    height: 38px;
+}
+
+
+.footertext p br {
+    display: none;
+}
+
+.footertext p {
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.footertext {
+    padding-top: 20px;
+}
+
+.footer-nav {
+    padding-top: 24px;
+    padding-bottom: 30px;
+}
+
+.footer-nav ul li a {
+    font-size: 13px;
+}
+
+.footer-nav ul li {
+    display: inline-block;
+    margin: 5px 4px;
+}
+
+.footer-copyright {
+    padding-top: 20px;
+}
+
+.footer-copyright p {
+    font-size: 12px;
+}
+
+
+.headertop-item1 p {
+    justify-content: center;
+}
+
+.newherott-area {
+    padding: 40px 0;
+}
+
+.newherott-part {
+    padding: 30px 15px;
+    box-sizing: border-box;
+    padding-bottom: 25px;
+    border-radius: 15px;
+}
+
+
+.newherott-heading h2 {
+    font-size: 22px;
+    line-height: 35px;
+    padding-bottom: 10px;
+}
+
+.newherott-heading p {
+    font-size: 12px;
+}
+
+.newherott-heading {
+    padding-bottom: 35px;
+}
+
+.newherott-text h3 {
+    font-size: 16px;
+    padding-bottom: 16px;
+    line-height: 26px;
+}
+
+.newherott-text p {
+    font-size: 13px;
+    line-height: 24px;
+    padding-bottom: 16px;
+}
+
+.newherott-text p br {
+    display: none;
+}
+
+
+
+
+
+}
